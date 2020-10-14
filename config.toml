@@ -1,0 +1,6 @@
+baseURL = "https://brainup.ga"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "ace-documentation"
+
+publishDir = "docs"
